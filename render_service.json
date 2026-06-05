@@ -15,7 +15,7 @@
     "envVars": [
       {
         "key": "MONGODB_URI",
-        "value": "mongodb+srv://ksvpatidar3180_db_user:3fnAVnA13pSjmHx0@cluster0.fxqbkmm.mongodb.net/?appName=Cluster0"
+        "value": "mongodb+srv://ks 0"
       },
       {
         "key": "DATABASE_NAME",
